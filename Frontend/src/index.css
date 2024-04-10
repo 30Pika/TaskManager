@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Playfair+Display:wght@700&family=Poppins:ital,wght@0,400;1,300&family=Red+Hat+Display:ital,wght@1,400;1,700;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background:  #242424;
+  color:#fff;
+}
